@@ -399,7 +399,7 @@ POST http://162.55.220.72:5005/user_info_2
 "Property:" "u_age" "property value:" 39
 "Property:" "u_name" "property value:" >(3) ["Ivan", 490000, 39]
 "Property:" "u_salary_5_years" "property value:" 2058000
-
+==============================================================END======================================================
 
 
 
